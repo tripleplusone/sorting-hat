@@ -6,4 +6,4 @@ You can find an HTML-version of this notebook [here](http://blog.yhat.com/posts/
 
 Feel free to use this code for your own projects. If you do something cool with it, [shoot me an email](<mailto:bryan.berend@gmail.com>). 
 
-Note on January 28, 2018: The code to classify and search for words is really messy and inefficient :-/. Should've used regex.
+Note, 01/28/2018: The code to classify and search for words is really messy and inefficient :-/. Should've used regex.
